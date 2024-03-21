@@ -4,7 +4,7 @@
 This is the source code of the _Alvin_ simulation software version 1.1, published in: 
 
 Schmid K, Knote A, Mück A, Pfeiffer K, Mammen S von, Fischer SC. _Frontiers in Bioinformatics_, 2022. Interactive, Visual Simulation of a 
-Spatio-Temporal Model of Gas Exchange in the Human Alveolus. ISSN 2673-7647.
+Spatio-Temporal Model of Gas Exchange in the Human Alveolus. ISSN 2673-7647. ([link](https://www.frontiersin.org/articles/10.3389/fbinf.2021.774300/full))
 
 If you use _Alvin_ or the source code, please cite the publication above.
 
